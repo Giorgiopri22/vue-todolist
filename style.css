@@ -1,0 +1,21 @@
+.done {
+    text-decoration: line-through;
+
+  }
+  
+  .delete {
+    margin-left: 10px;
+    cursor: pointer;
+    color: red;
+    font-weight: bold;
+  }
+  
+
+ul{
+    background-color: lightgray;
+    padding: 10px;
+}
+
+ul li{
+    list-style: none;
+}
